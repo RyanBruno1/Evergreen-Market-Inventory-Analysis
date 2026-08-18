@@ -1,0 +1,11 @@
+Product,Category,Units_Sold,Inventory_Level,Price,Competitor_Price,Demand_Forecast
+Apples,Produce,120,300,1.29,1.19,150
+Bananas,Produce,200,250,0.59,0.49,220
+Milk,Dairy,180,100,3.49,3.29,160
+Eggs,Dairy,150,80,2.99,2.79,140
+Bread,Bakery,130,90,2.49,2.39,120
+Chicken,Meat,90,60,7.99,7.49,100
+Beef,Meat,70,50,9.99,9.49,80
+Cereal,Pantry,110,200,4.49,4.29,130
+Pasta,Pantry,140,180,1.49,1.39,160
+Rice,Pantry,160,220,2.49,2.29,180
