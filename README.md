@@ -40,3 +40,6 @@ Data analytics case study analyzing Evergreen Market’s retail dataset to impro
 ##  Next Steps
 - Automate forecasting using regression models.
 - Expand analysis to multi-store data.
+
+# Evergreen Market Inventory Optimization
+Dataset provided by SNHU for educational purposes.
